@@ -2,7 +2,7 @@
 
 ## Preview
 
-[Live Preview][]
+[Live Preview][https://tech-sevvy-company.netlify.app/]
 
 ## Deployment
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0cbbb85f-1d17-42b0-8d8e-22c6ca6e42a9/deploy-status)](https://app.netlify.com/sites/tech-sevvy-company/deploys)
