@@ -423,7 +423,8 @@ header .circle {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  width: 100%;
+  width: 150%;
+  padding-right: 21.875rem;
 }
 
 .card-wrap {
@@ -441,7 +442,7 @@ header .circle {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 3rem 2rem;
+  padding: 3rem 3rem;
   overflow: hidden;
   transition: 0.3s;
 }
